@@ -85,6 +85,7 @@ add a few functions to calculate the necessary features and create the dataset t
 ## Modelling<a name="modelling"></a>
 
 Split the full dataset into train and test. Using machile learning test some methods and evaluate the accuracy of several models.
+
 1- Logistic regresion
 
 2- RandomForestClassifier
